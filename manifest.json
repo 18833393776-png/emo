@@ -1,0 +1,43 @@
+{
+  "maintainer": "18833393776-png",
+  "source": {
+    "subpath": ".",
+    "ref": "main",
+    "repo": "18833393776-png/emo",
+    "type": "github"
+  },
+  "id": "emo-001",
+  "tags": [
+    "personal",
+    "anime",
+    "chibi",
+    "qq-bot"
+  ],
+  "version": "1.0.0",
+  "description": "用于 QQ 对话机器人的红发少女 Q 版表情包，包含开心、伤心、喜爱、平静、困惑、生气和自嘲等情绪。",
+  "name": "emo 表情包",
+  "categories": {
+    "angry": {
+      "description": "表达生气、不满或轻微抗议时使用；适合被打扰、被误解或遇到离谱情况的场景。"
+    },
+    "calm": {
+      "description": "表达平静、淡定、专注阅读或安静陪伴时使用；适合放松和不需要强烈情绪的场景。"
+    },
+    "confused": {
+      "description": "表达疑惑、发呆、没听懂或等待进一步说明时使用。"
+    },
+    "fool": {
+      "description": "用于摔倒、犯小错误或自嘲式缓和气氛的场景；保持友善，不用于攻击他人。"
+    },
+    "happy": {
+      "description": "表达开心、友好、成功确认或轻松回应时使用。"
+    },
+    "like": {
+      "description": "表达喜欢、期待、心动、赞赏或看到感兴趣事物时使用。"
+    },
+    "sad": {
+      "description": "表达伤心、委屈、想哭、歉意或安慰他人时使用。"
+    }
+  },
+  "license": "UNLICENSED"
+}
